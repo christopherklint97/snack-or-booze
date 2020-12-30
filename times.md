@@ -15,5 +15,7 @@
 - Time: 5 hrs
 
 - Start: 19:00
-- End:
-- Time:
+- End: 20:30
+- Time: 1.5 hrs
+
+## Total time: 8 hrs
